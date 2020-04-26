@@ -1,2 +1,2 @@
-# yahoofinance
-fetch stock prices from yahoo finance based on ticker code
+# Stock Prices from yahoofinance
+Fetch stock prices from yahoo finance based on ticker code
